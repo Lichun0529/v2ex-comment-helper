@@ -1,5 +1,4 @@
-#### 截图
-https://files.catbox.moe/px4ckr.png
+为 V 站摸鱼写的 Chrome 扩展，评论中有@时鼠标悬停在 ID 上可显示被 @人在当前页面的所有发言
 
 #### 安装
 
